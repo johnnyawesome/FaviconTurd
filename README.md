@@ -5,7 +5,7 @@ Puts a 💩 Turd 💩 where the site's favicon used to be!
 
 The internet is full of shit - why not take pride in it?
 
-![alt text](https://raw.githubusercontent.com/johnnyawesome/TitleTurd/master/Title%20Turd.jpg)
+![alt text](https://raw.githubusercontent.com/johnnyawesome/FaviconTurd/master/Favicon%20Turd.jpg)
 
 ## How to run the script
 

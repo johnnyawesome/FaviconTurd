@@ -6,7 +6,8 @@
 // @author       JohnnyAwesome
 // @match        *://*/*
 // @grant        none
-// @icon         https://cdn0.iconfinder.com/data/icons/pixelo/32/skull.png
+// @icon         https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull32.ico
+// @icon64		 https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull64.ico
 // @updateURL    https://github.com/johnnyawesome/FaviconTurd/raw/master/Favicon%20Turd.user.js
 // @downloadURL  https://github.com/johnnyawesome/FaviconTurd/raw/master/Favicon%20Turd.user.js
 // ==/UserScript==

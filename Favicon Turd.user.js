@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Favicon Turd
 // @namespace    https://github.com/johnnyawesome
-// @version      1.0.1
+// @version      1.0.2
 // @description  Changes all Favicons to turds, because we can!
 // @author       JohnnyAwesome
 // @match        *://*/*
